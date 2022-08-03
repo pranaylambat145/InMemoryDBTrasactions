@@ -1,0 +1,16 @@
+D:\Siemense_Problem\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Siemense_Problem\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Siemense_Problem\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Siemense_Problem\ConsoleApp1\ConsoleApp1\obj\Debug\InMemoryDBSupportingTransac.csproj.AssemblyReference.cache
+D:\Siemense_Problem\ConsoleApp1\ConsoleApp1\obj\Debug\InMemoryDBSupportingTransac.csproj.SuggestedBindingRedirects.cache
+D:\Siemense_Problem\ConsoleApp1\ConsoleApp1\obj\Debug\InMemoryDBSupportingTransac.csproj.CoreCompileInputs.cache
+D:\Siemense_Problem\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Siemense_Problem\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+D:\DBSupportingTransac\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\DBSupportingTransac\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\DBSupportingTransac\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\DBSupportingTransac\ConsoleApp1\obj\Debug\InMemoryDBSupportingTransac.csproj.AssemblyReference.cache
+D:\DBSupportingTransac\ConsoleApp1\obj\Debug\InMemoryDBSupportingTransac.csproj.SuggestedBindingRedirects.cache
+D:\DBSupportingTransac\ConsoleApp1\obj\Debug\InMemoryDBSupportingTransac.csproj.CoreCompileInputs.cache
+D:\DBSupportingTransac\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\DBSupportingTransac\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
